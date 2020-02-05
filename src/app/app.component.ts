@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { ClippyService } from 'js-clippy';
+import { ClippyService } from '../../projects/js-clippy/src/public_api';
 
 @Component({
   selector: 'app-root',
